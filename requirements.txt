@@ -1,0 +1,11 @@
+bs4
+requests
+httplib2
+treelib
+selenium
+google-api-python-client
+regex
+gensim
+argparse
+nltk
+numpy
